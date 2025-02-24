@@ -105,4 +105,4 @@ Jawab :
 
 Praktikum ini memperkenalkan dasar-dasar **pemrograman berbasis framework** dengan ReactJS dan Next.js. Dengan memahami konsep-konsep ini, kita dapat mengembangkan aplikasi modern yang modular, efisien, dan mudah dikembangkan lebih lanjut.
 
-**Repository GitHub:** **
+**Repository GitHub:** *https://github.com/yogiannanf/2241720261-YogiannaNurFebrianti-Pem.BerbasisFramework2025*

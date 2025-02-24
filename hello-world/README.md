@@ -25,19 +25,19 @@ Jawab :
 
 - Hasil perintah `git --version` yang menunjukkan versi Git yang terinstal.
 
-![img](img\cekgit.png)
+![img](img/cekgit.png)
 
 - Tampilan antarmuka Visual Studio Code setelah dibuka.
 
-![img](img\cekvscode.png)
+![img](img/cekvscode.png)
 
 - Hasil perintah `node -v` dan `npm -v` yang menunjukkan versi Node.js dan NPM yang terinstal.
 
-![img](./img/Picture1.png)
+![img](img/Picture1.png)
 
-![img](img\Picture2.png)
+![img](img/Picture2.png)
 
-![img](img\Picture3.png)
+![img](img/Picture3.png)
 
 ### Pertanyaan Praktikum 2
 
@@ -78,9 +78,9 @@ Jawab :
 - Hasil eksekusi perintah `npx create-next-app@latest` yang berhasil.
 Jawab : 
 
-![img](img\Picture4.png)
+![img](img/Picture4.png)
 
-![img](img\Picture5.png)
+![img](img/Picture5.png)
 
 ### Pertanyaan Praktikum 3
 
@@ -88,7 +88,7 @@ Jawab :
 
 Jawab : 
 
-![img](img\Picture6.png)
+![img](img/Picture6.png)
 
 ### Pertanyaan Praktikum 4
 1. Untuk apakah kegunaan sintaks user.imageUrl?
@@ -99,7 +99,7 @@ Jawab : `user.imageUrl` digunakan untuk mengambil URL gambar dari objek `user` d
 
 Jawab : 
 
-![img](img\Picture7.png)
+![img](img/Picture7.png)
 
 ## **Kesimpulan**
 

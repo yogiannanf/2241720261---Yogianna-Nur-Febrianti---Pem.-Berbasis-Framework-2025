@@ -33,7 +33,7 @@ Jawab :
 
 - Hasil perintah `node -v` dan `npm -v` yang menunjukkan versi Node.js dan NPM yang terinstal.
 
-![img](img\Picture1.png)
+![img](./img/Picture1.png)
 
 ![img](img\Picture2.png)
 
